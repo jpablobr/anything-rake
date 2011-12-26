@@ -1,4 +1,4 @@
-;;; anything-rake.el --- Return list of all rake tasks via `rake -T`.
+;;; anything-rake.el --- Quick listing and execution of rake tasks.
 
 ;; This file is not part of Emacs
 
